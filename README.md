@@ -1,6 +1,5 @@
-# Educational-Data-Analysis-System
+# 📊 Educational-Data-Analysis-System  🎓
 نظام متكامل لتحليل الأداء التعليمي باستخدام Python و Looker Studio لـ 600 سجل بيانات
-# 📊 Educational Data Analytics Pipeline 🎓
 ### *Dynamic Data Processing & Interactive Visualization System*
 
 ![Python](https://shields.io)
@@ -34,4 +33,4 @@
 
 ---
 📩 **للتواصل والاستفسار:**
-يمكنكم زيارة معرض أعمالي الكامل عبر الرابط: [رابط موقعك على Google Sites]
+يمكنكم زيارة معرض أعمالي الكامل عبر الرابط: [Google Sites]
