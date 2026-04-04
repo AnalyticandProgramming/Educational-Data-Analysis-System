@@ -1,4 +1,4 @@
-![Cover Image](cover.png)
+٢١![Cover Image](cover.png)
 # 📊 Educational-Data-Analytics-Pipeline  🎓
 نظام متكامل لتحليل الأداء التعليمي باستخدام Python و Looker Studio لـ 600 سجل بيانات
 ### *Dynamic Data Processing & Interactive Visualization System*
@@ -25,8 +25,7 @@
 *   **Web:** Google Sites (Portfolio Hosting).
 
 ## 📂 هيكلية المشروع (File Structure)
-*   `analysis.ipynb`: دفتر ملاحظات Colab للتحليل الإحصائي الديناميكي.
-*   `queries.sql`: استعلامات SQL المستخدمة لتهيئة وتصفية البيانات.
+*   `Educational_Data_Analysis.ipynb`: دفتر ملاحظات Colab للتحليل الإحصائي الديناميكي.
 *   `README.md`: وثائق المشروع الحالية.
 
 ## 📊 النتائج الرئيسية (Key Insights)
