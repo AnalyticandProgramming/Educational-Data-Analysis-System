@@ -1,4 +1,4 @@
-٢١![Cover Image](cover.png)
+![Cover Image](cover.png)
 # 📊 Educational-Data-Analytics-Pipeline  🎓
 نظام متكامل لتحليل الأداء التعليمي باستخدام Python و Looker Studio لـ 600 سجل بيانات
 ### *Dynamic Data Processing & Interactive Visualization System*
@@ -33,4 +33,4 @@
 
 ---
 📩 **للتواصل والاستفسار:**
-يمكنكم زيارة معرض أعمالي الكامل عبر الرابط: [Google Sites]
+يمكنكم زيارة معرض أعمالي الكامل عبر الرابط: [ https://sites.google.com/view/ali-br-portfolio]
