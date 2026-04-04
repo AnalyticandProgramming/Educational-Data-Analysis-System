@@ -3,10 +3,11 @@
 نظام متكامل لتحليل الأداء التعليمي باستخدام Python و Looker Studio لـ 600 سجل بيانات
 ### *Dynamic Data Processing & Interactive Visualization System*
 
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Looker Studio](https://shields.io)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?logo=looker&logoColor=white" alt="Looker Studio" />
+</p>
 ---
 
 ## 📝 وصف المشروع (Project Overview)
